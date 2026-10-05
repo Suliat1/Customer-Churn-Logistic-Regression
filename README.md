@@ -41,7 +41,7 @@ A correlation heatmap was used to analyze relationships between numerical featur
 
 ## 📁 Files
 
-- `Customer_Churn_Logistic_Regression.ipynb` — Google Colab notebook containing the complete project
+- `Customer_Churn_Logistic_Regression (2).ipynb` — Google Colab notebook containing the complete project
 - `README.md` — Project documentation
 
 ## 👤 Author
